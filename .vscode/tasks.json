@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "install",
+			"path": "BRTS/backend",
+			"group": "clean",
+			"problemMatcher": [],
+			"label": "npm: install - BRTS/backend",
+			"detail": "install dependencies from package"
+		}
+	]
+}
